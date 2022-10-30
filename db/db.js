@@ -4,7 +4,6 @@ const mysql = require("mysql");
 //   host: "localhost",
 //   user: "root",
 //   password: "12345",
-//   database: "webweek",
 // });
 
 const mySqlConnection = mysql.createConnection({
